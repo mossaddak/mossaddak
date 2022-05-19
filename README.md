@@ -1,7 +1,7 @@
 ### Hi there 👋 
  I'm MOSSADDAK from Bangladesh a WEB DEVELOPER. I love to make something creative as well as play with IDE. I'm looking at others to find a new way of solutions and believe hard work is a luck changer🌱 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
  
- <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossaddak&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+ <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossaddak&hide_border=true&layout=compact" align="center" style="width: 70%" /></div>  
  
  
  <table><tr><td valign="top" width="33%">
