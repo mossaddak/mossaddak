@@ -4,7 +4,7 @@
  <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossaddak&hide_border=true&layout=compact" align="center" style="width: 70%" /></div>  
  
  
- <table><tr><td valign="top" width="33%">
+ <table><tr><td valign="top" width="100%">
 
 
 
