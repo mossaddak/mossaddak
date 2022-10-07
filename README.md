@@ -1,5 +1,5 @@
 ### Hi there 👋 
-This is MOSSADDAK from Bangladesh a WEB DEVELOPER. I'm working with web development since 2021. <b>I already have done 37 projects lonely</b> and as well as group-based work with some different types of projects along with machine learning. <b class="color:green;">Moreover, I worked with local clients too.</b> I work with an aim of developing something. #First of all, it looks should be good, because the customer credibility of the business is based on first impressions. #Secondly, it should have a powerful backend to perform the required functionality efficiently.🌱 
+This is MOSSADDAK from Bangladesh a WEB DEVELOPER. I'm working with web development since 2021. <b>I already have done 37 projects lonely</b> and as well as group-based work with some different types of projects along with machine learning. <b style="color:green;">Moreover, I worked with local clients too.</b> I work with an aim of developing something. #First of all, it looks should be good, because the customer credibility of the business is based on first impressions. #Secondly, it should have a powerful backend to perform the required functionality efficiently.🌱 
  
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
 
