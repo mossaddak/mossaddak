@@ -1,5 +1,5 @@
 ### Hi there 👋 
- I'm MOSSADDAK from Bangladesh a WEB DEVELOPER. I love to make something creative as well as play with IDE. I'm looking at others to find a new way of solutions and believe hard work is a luck changer🌱 
+This is MOSSADDAK from Bangladesh a WEB DEVELOPER. I'm working with web development since 2021. I already have done 37 projects lonely and as well as group-based work with some different types of projects along with machine learning. Moreover, I worked with local clients too. I work with an aim of developing something. #First of all, it looks should be good, because the customer credibility of the business is based on first impressions. #Secondly, it should have a powerful backend to perform the required functionality efficiently.🌱 
  
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
 
