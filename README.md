@@ -4,13 +4,8 @@ This is MOSSADDAK from Bangladesh a WEB DEVELOPER. I've been working with web de
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-username=mossaddak&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-
- 
-
-![](https://github-readme-stats.vercel.app/api?username=mossaddak&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mossaddak&theme=radical&hide_border=true)<br/>
 
 ---
