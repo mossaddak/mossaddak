@@ -1,5 +1,13 @@
+14 Clients | Worked on 7 projects that are in production | 2 Research
 ### Hi there 👋 
-This is MOSSADDAK from Bangladesh a WEB DEVELOPER. I've been working with web development since 2021. <b>I already have done 62 projects lonely</b> and as well as group-based work with some different types of projects along with machine learning. <b>Moreover, I worked with 13 clients over the world too.</b> I work with an aim of developing something. <b>#First of all,</b> it looks should be good, because the customer credibility of the business is based on first impressions. <b>#Secondly,</b> it should have a powerful backend to perform the required functionality efficiently.🌱 
+This is Mossaddak, love to make something creative as well as play with IDE🤷‍♀️.
+I've been involved in web development since 2021, completing 63 solo projects and collaborating on various group-based projects, including those related to machine learning. Additionally, I've worked with 14 clients worldwide.
+
+I work to develop something with a focus on some aspects like the website design must be carefully tailored. Attractive visuals and smooth animations are enable to leave a positive impression on customers. Finally, It needs a robust backend for efficient functionality.
+
+I successfully worked on two research projects with different groups, and both studies were accepted by international journals.
+
+When I'm free, I usually love to plan to travel 🏕, and I thoroughly enjoy it.🌱 
  
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
 
