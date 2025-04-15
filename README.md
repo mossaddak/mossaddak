@@ -1,12 +1,5 @@
-### Hi there 👋 
-This is Mossaddak, love to make something creative as well as play with IDE🤷‍♀️.
-I've been involved in web development since 2021, completing 63 solo projects and collaborating on various group-based projects, including those related to machine learning. Additionally, I've worked with many clients worldwide.
-
-I work to develop something with a focus on some aspects like the website design must be carefully tailored. Attractive visuals and smooth animations are enable to leave a positive impression on customers. Finally, It needs a robust backend for efficient functionality.
-
-I successfully worked on two research projects with different groups, and both studies were accepted by international journals.
-
-When I'm free, I usually love to plan to travel 🏕, and I thoroughly enjoy it.🌱 
+### 👋 
+Software Engineer with a strong focus on scalable architecture, driven by a passion for research and exploration 🏕.
  
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
 
