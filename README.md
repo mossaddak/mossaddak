@@ -1,10 +1,7 @@
 ### 👋 
 Software Engineer with a strong focus on scalable architecture, driven by a passion for research and exploration 🏕.
- 
+
 [![](https://visitcount.itsvg.in/api?id=mossaddak&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mossaddak&theme=radical&hide_border=true)<br/>
 
