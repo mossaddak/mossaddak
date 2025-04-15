@@ -1,8 +1,9 @@
 ### 👋 
+
 Software Engineer with a strong focus on scalable architecture, driven by a passion for research and exploration 🏕.
+
 ---
 
-## Connect with me  
 <div align="">
 <a href="https://github.com/mossaddak" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
